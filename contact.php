@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -69,7 +71,7 @@
         <h5 class="text-center">Veillez Nous Contactez</h5>
 
 
-<!--------- FORMULAIRE   ---------------->
+<!--------- FORMULAIRE Lier à formtraitement  ---------------->
 
 
         <form method="post" action="formtraitement.php">
